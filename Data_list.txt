@@ -2,10 +2,16 @@
 No.	Title				Seen_Mauri	Seen_Janin	IMDB_link
 1.	Arrival				si		si		https://www.imdb.com/title/tt2543164/?ref_=nv_sr_srsg_0
 2.	Three identical strangers	no		si		https://www.imdb.com/title/tt7664504/
-
+3. Atonement
+4. 2046 (Won Kar Wai movie, pseudo-sequel from "In the mood for love")
 
 ** SERIES **
 No.	Title				Seen_Mauri	Seen_Janin	IMDB_link
 1.	Charité				no		si		https://www.imdb.com/title/tt5337806/?ref_=fn_al_tt_1
+2. Breaking Bad
+3. The wire
+4. Treme
+5. El reemplazante (Chile)
+
 
 
