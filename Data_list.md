@@ -4,7 +4,7 @@ MOVIES
 
 test | test | test
 --- | --- | --- 
-1. | Arrival | x 
+1 | Arrival | x 
 
 test | test | test | test | test | test
 --- | --- | --- | --- | --- | ---
