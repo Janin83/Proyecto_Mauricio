@@ -2,6 +2,10 @@ MOVIES
 ======
 (Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 No. | Title | Mauri | Janin | Director | Comment | IMDB-link
 --- | --- | --- | --- | --- | --- | ---
