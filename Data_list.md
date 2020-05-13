@@ -9,9 +9,9 @@ Markdown | Less | Pretty
 
 No. | Title | Mauri | Janin | Director | Comment | IMDB-link
 --- | --- | --- | --- | --- | --- | ---
-1. | Arrival | x | x |  |  | https://www.imdb.com/title/tt2543164/?ref_=nv_sr_srsg_0
-2. | Three identical strangers |  | x |  |  | https://www.imdb.com/title/tt7664504/ 
-3. | Atonement | x |  |  |  |
+1. | Arrival | x | x |     |     | https://www.imdb.com/title/tt2543164/?ref_=nv_sr_srsg_0
+2. | Three identical strangers |   | x |   |   | https://www.imdb.com/title/tt7664504/ 
+3. | Atonement | x | --- | --- | --- |
 4. | 2046 | x |  | Won Kar Wai | pseudo-sequel from "In the mood for love" |
 5. | Blade Runner (1982) | x | x |  |  |
 6. | Blade Runner 2049 | x |  |  |  |
