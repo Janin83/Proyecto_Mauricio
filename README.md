@@ -14,8 +14,9 @@
 ### Climbing.md
 1. link instruction videos and references the following way:
 
-    **[video][1]** # this will be written in the table where the number is increasing with each new video/reference (1, 2, ...)
-    **[1]: _link-to-video_** # this will be included below the table and serves only to store the links (won't be visible in md file)
+    **[video][1]**      # this will be written in the table where the number is increasing with each new video/reference (1, 2, ...)
+    
+    **[1]: _link-to-video_**    # this will be included below the table and serves only to store the links (won't be visible in md file)
 
 
 
