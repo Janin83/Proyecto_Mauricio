@@ -9,7 +9,7 @@ No. | Title | Mauri | Janin | Director | Comment | IMDB-link
 3 | Atonement | x |  |  |  | 
 4 | 2046 | x |  | Won Kar Wai | pseudo-sequel from "In the mood for love" |
 5 | Blade Runner (1982) | x | x |  |  |
-6 | Blade Runner 2049 | x |  |  |  |
+6 | Blade Runner 2049 | x | x |  |  |
 7 |  |  |  |  |  |
 8 |  |  |  |  |  |
 9 |  |  |  |  |  |
